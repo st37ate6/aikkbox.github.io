@@ -1,0 +1,77 @@
+body {
+    background-color: lightgoldenrodyellow;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    font-style: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 50px;
+    font-style: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.loginTitle {
+    text-align: center;
+    font-family: cursive;
+}
+
+.loginPage {
+    text-align: center;
+}
+
+.phonenumber {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.appPic {
+    border-radius: 20%;
+    height: 50px;
+    width: 50px;
+}
+
+.identifyInput {}
+
+.identifyPic {
+    position: relative;
+    left: 30px;
+}
+
+.username {
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.password-agileits {}
+
+.password {
+    position: relative;
+    left: 12px;
+}
+
+.rem-for-agile {}
+
+.login-w3 {}
+
+.login {
+    background-color: lightblue;
+    border-radius: 9px;
+    height: 30px;
+    width: 90px;
+}
+
+.loginMethod {
+    text-align: center;
+}
+
+.loginMethod img {
+    height: 30px;
+    border-radius: 100px;
+}

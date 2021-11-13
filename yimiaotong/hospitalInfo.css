@@ -1,0 +1,29 @@
+body {
+    background-color: lightgoldenrodyellow;
+    margin-left: 30px;
+    margin-right: auto;
+    font-size: smaller;
+    font-family: cursive;
+}
+
+h2 {
+    position: relative;
+    top: 70px;
+    left: 30px;
+}
+
+h5 {
+    position: relative;
+    top: -100px;
+    left: 40px;
+    color: lightskyblue;
+}
+
+img {
+    position: relative;
+    left: 235px;
+    top: 30px;
+    height: 140px;
+}
+
+.infoTable {}

@@ -1,0 +1,33 @@
+body {
+    margin-top: 10%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightyellow;
+    font-family: cursive;
+}
+
+table {
+    text-align: center;
+    border: 1px;
+    border-style: solid;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    border-style: outset;
+}
+
+.table1 {
+    height: 20px;
+    font-size: larger;
+}
+
+input {
+    background-color: lightblue;
+    border-radius: 9px;
+    height: 30px;
+    width: 90px;
+}

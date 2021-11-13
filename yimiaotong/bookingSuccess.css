@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightyellow;
+    font-family: cursive;
+    width: 400px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mark {
+    color: rgb(231, 19, 19);
+}

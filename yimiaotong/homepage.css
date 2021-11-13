@@ -1,0 +1,16 @@
+body {
+    margin-top: 20%;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightyellow;
+}
+
+input {
+    background-color: aquamarine;
+    border-radius: 10%;
+    font-size: larger;
+    font-family: cursive;
+    width: 30%;
+    height: 15%;
+}

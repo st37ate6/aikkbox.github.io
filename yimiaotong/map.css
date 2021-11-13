@@ -1,0 +1,10 @@
+.map1 {
+    height: 500px;
+}
+
+.map2 {
+    position: relative;
+    right: 260px;
+    bottom: 260px;
+    height: 108px;
+}
