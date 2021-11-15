@@ -20,12 +20,13 @@ h1 {
 }
 
 .reserve {
+    text-align: center;
     font-family: cursive;
     font-size: 30px;
     background-color: lightblue;
     border-radius: 9px;
     height: 60px;
-    width: 100px;
+    width: 200px;
 }
 
 .name {
