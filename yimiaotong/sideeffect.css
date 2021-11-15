@@ -38,6 +38,7 @@ td {
 }
 
 input {
+    font-size: 40px;
     background-color: lightblue;
     border-radius: 9px;
     height: 60px;
