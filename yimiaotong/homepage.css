@@ -7,10 +7,10 @@ body {
 }
 
 input {
+    font-size: 45px;
     background-color: aquamarine;
     border-radius: 10%;
-    font-size: larger;
     font-family: cursive;
-    width: 30%;
-    height: 15%;
+    width: 400px;
+    height: 80px;
 }
