@@ -1,6 +1,5 @@
 .map1 {
     height: 1500px;
-    z-index: 10;
 }
 
 .map2 {
@@ -8,5 +7,4 @@
     right: 770px;
     bottom: 782px;
     height: 324px;
-    z-index: 8;
 }
