@@ -6,11 +6,29 @@ body {
 
 table {
     margin: auto;
+    border-spacing: 20px;
+}
+
+h1 {
+    font-size: 80px;
+    position: relative;
+    top: 40px;
+}
+
+.info {
+    font-size: 30px;
 }
 
 .reserve {
+    font-family: cursive;
+    font-size: 30px;
     background-color: lightblue;
     border-radius: 9px;
-    height: 30px;
-    width: 50px;
+    height: 60px;
+    width: 100px;
+}
+
+.name {
+    height: 40px;
+    width: 250px;
 }

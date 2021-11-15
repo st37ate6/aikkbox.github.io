@@ -1,5 +1,5 @@
 body {
-    margin-top: 10%;
+    margin-top: 20%;
     text-align: center;
     margin-right: auto;
     margin-left: auto;
@@ -14,6 +14,11 @@ table {
     background-color: burlywood;
     margin-left: auto;
     margin-right: auto;
+    font-size: 35px;
+}
+
+h1 {
+    font-size: 50px;
 }
 
 td {
@@ -22,12 +27,19 @@ td {
 
 .table1 {
     height: 20px;
+    width: 250px;
+    font-size: larger;
+}
+
+.table2 {
+    height: 20px;
+    width: 800px;
     font-size: larger;
 }
 
 input {
     background-color: lightblue;
     border-radius: 9px;
-    height: 30px;
-    width: 90px;
+    height: 60px;
+    width: 200px;
 }

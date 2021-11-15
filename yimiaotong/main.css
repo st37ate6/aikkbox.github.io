@@ -18,8 +18,14 @@ table {
 }
 
 .loginTitle {
+    font-size: 80px;
     text-align: center;
     font-family: cursive;
+}
+
+.name {
+    height: 40px;
+    width: 200px;
 }
 
 .loginPage {
@@ -28,7 +34,7 @@ table {
 
 .phonenumber {
     font-family: cursive;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .appPic {
@@ -41,30 +47,34 @@ table {
 
 .identifyPic {
     position: relative;
-    left: 30px;
+    left: 50px;
 }
 
 .username {
     font-family: cursive;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .password-agileits {}
 
 .password {
+    height: 40px;
+    width: 200px;
     position: relative;
-    left: 12px;
+    left: 20px;
 }
 
-.rem-for-agile {}
+.rem-for-agile {
+    font-size: 25px;
+}
 
 .login-w3 {}
 
 .login {
     background-color: lightblue;
     border-radius: 9px;
-    height: 30px;
-    width: 90px;
+    height: 50px;
+    width: 120px;
 }
 
 .loginMethod {
@@ -72,6 +82,6 @@ table {
 }
 
 .loginMethod img {
-    height: 30px;
+    height: 50px;
     border-radius: 100px;
 }

@@ -4,14 +4,31 @@ body {
     margin-right: auto;
     background-color: lightyellow;
     font-family: cursive;
-    width: 400px;
+}
+
+h1 {
+    font-size: 100px;
 }
 
 table {
+    font-size: 50px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .mark {
     color: rgb(231, 19, 19);
+}
+
+.en {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input {
+    font-family: cursive;
+    font-size: 30px;
+    background-color: lightblue;
+    border-radius: 9px;
+    height: 60px;
+    width: 200px;
 }

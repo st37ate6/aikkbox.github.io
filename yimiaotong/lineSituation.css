@@ -4,6 +4,7 @@ body {
     margin-left: auto;
     background-color: lightyellow;
     font-family: cursive;
+    font-size: 50px;
 }
 
 .lineSituationTable {
@@ -16,15 +17,21 @@ body {
 table {
     margin-left: auto;
     margin-right: auto;
+    font-size: 55px;
 }
 
 .mark {
     color: rgb(231, 19, 19);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 h3 {}
 
 input {
-    font-size: large;
     font-family: cursive;
+    font-size: 30px;
+    background-color: lightblue;
+    border-radius: 9px;
+    height: 60px;
+    width: 400px;
 }
